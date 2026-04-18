@@ -4,8 +4,18 @@
 
 **Moody** to aplikacja webowa stworzona z myślą o wspieraniu zdrowia menstruacyjnego, monitorowaniu nastroju i budowaniu lepszej komunikacji z bliskimi. Dzięki unikalnemu, nowoczesnemu designowi w stylu **Y2K**, Moody nie tylko pomaga zrozumieć własne ciało, ale także sprawia, że codzienne śledzenie samopoczucia staje się przyjemnością.
 
-![Moody App Concept](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80) 
-*(Przykładowa estetyka Y2K - placeholder)*
+<img width="1344" height="563" alt="{F0D73000-748E-48EE-B86F-D63A47C2AEDD}" src="https://github.com/user-attachments/assets/ff2c81e0-9fdf-4632-8e61-e441c024dc13" />
+
+</br>
+
+<img width="1345" height="672" alt="{3F83A810-F8D1-4BF5-86C5-0DEAB108FE8F}" src="https://github.com/user-attachments/assets/82cb7943-cbc9-4c5c-8575-4683c558af8d" />
+
+</br>
+
+<img width="1341" height="668" alt="{61D7C42B-BEDD-4EFE-BD17-8CE1DF7684FE}" src="https://github.com/user-attachments/assets/ef2d4c17-08df-4b56-abe0-4e638c2baead" />
+
+
+
 
 ## ✨ Główne funkcje
 
