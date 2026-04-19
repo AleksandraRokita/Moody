@@ -6,6 +6,8 @@
 
 Strona znajduje się [tutaj](https://moodyhackcarpatia.vercel.app/).
 
+Link do demonstracji znajduje sie [tutaj](https://drive.google.com/file/d/1jjKjILk6M-rMvq79FHy7G1sO93JBKh_c/view?usp=sharing).
+
 <img width="1344" height="563" alt="{F0D73000-748E-48EE-B86F-D63A47C2AEDD}" src="https://github.com/user-attachments/assets/ff2c81e0-9fdf-4632-8e61-e441c024dc13" />
 
 </br>
